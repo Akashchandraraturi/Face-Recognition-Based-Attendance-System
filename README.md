@@ -12,15 +12,6 @@ Backend: Python, Flask
 Computer Vision: OpenCV, NumPy
 Machine Learning: K-Nearest Neighbors (KNN), scikit-learn, joblib
 Data Storage: Pandas, CSV
-🔹 Installation & Setup
-Clone the repository:
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-Install dependencies:
-pip install -r requirements.txt
-Run the Flask application:
-python app.py
-Open http://127.0.0.1:5000/ in your browser.
 🔹 How It Works
 Register Users: Capture and store face images via /add.
 Start Attendance: Detect faces and log attendance via /start.
